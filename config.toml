@@ -1,6 +1,6 @@
 baseURL = "https://romanromero.es/"
 languageCode = "es-es"
-title = "Roman Romero | Procuradora"
+title = "Román Menor | Procuradora"
 theme = "infinity-hugo"
 removePathAccents = true
 
@@ -21,7 +21,7 @@ contact = "Contact"
 [params.hero]
 enable = true
 bg = "images/header-bg.jpg"
-title = "MARÍA DEL CARMEN ROMÁN ROMERO"
+title = "MARÍA DEL CARMEN ROMÁN Menor"
 subtitle = "Procuradora"
 btnText = "Saber más"
 
