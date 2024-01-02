@@ -11,17 +11,17 @@ customHead = ""
 
 # Navigation
 [params.navigation]
-logo = "images/logo.png"
-home = "Home"
-about = "About"
-service = "Services"
-contact = "Contact"
+logo = ""
+home = "Inicio"
+about = "Sobre mí"
+service = "Servicios"
+contact = "Contacto"
 
 # Hero Area
 [params.hero]
 enable = true
 bg = "images/header-bg.jpg"
-title = "MARÍA DEL CARMEN ROMÁN Menor"
+title = "MARÍA DEL CARMEN ROMÁN MENOR"
 subtitle = "Procuradora"
 btnText = "Saber más"
 
@@ -127,7 +127,7 @@ delay = "1.5s"
 
 # Call to Action Section
 [params.cta]
-enable = true
+enable = false
 bg = "images/call-to-action.jpg"
 title = "Subscribe to our mailing list"
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
