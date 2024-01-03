@@ -1,4 +1,4 @@
-baseURL = "https://romanromero.es/"
+baseURL = "https://romanromero.es"
 languageCode = "es-es"
 title = "Román Menor | Procuradora"
 theme = "infinity-hugo"
