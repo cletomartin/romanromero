@@ -57,8 +57,8 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon = "tf-strategy"
-title = "Fully Responsive"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+title = "Asesoramiento"
+description = "Especialista en Derecho Procesal"
 delay = "0s"
 
 [[params.service.serviceItem]]
@@ -66,8 +66,8 @@ delay = "0s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon = "tf-circle-compass"
-title = "Speed Optimized"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+title = "Notificationes al día"
+description = "Todas las resoluciones judiciales serán notificadas en el mismo día"
 delay = "0.2s"
 
 [[params.service.serviceItem]]
@@ -75,8 +75,8 @@ delay = "0.2s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon = "tf-anchor2"
-title = "Tons of Feature"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+title = "Control de Plazos"
+description = "Recordatorios de señalamientos, plazos y requerimientos"
 delay = "0.4s"
 
 [[params.service.serviceItem]]
@@ -84,8 +84,8 @@ delay = "0.4s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon = "tf-globe"
-title = "Fully SEO Optimized"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+title = "Impulso Procesal"
+description = "Acelerar la tramitación de los procedimientos"
 delay = "0.6s"
 
 [[params.service.serviceItem]]
@@ -93,8 +93,8 @@ delay = "0.6s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon = "tf-strategy"
-title = "Fully Responsive"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+title = "Rápido y Eficaz"
+description = "Redacción de escritos de trámite y presentación el mismo día"
 delay = "0.8s"
 
 [[params.service.serviceItem]]
@@ -102,8 +102,8 @@ delay = "0.8s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon = "tf-circle-compass"
-title = "Speed Optimized"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+title = "Versatilidad"
+description = "Tramitaciones ante cualquier organismo público y privado"
 delay = "1s"
 
 [[params.service.serviceItem]]
@@ -111,8 +111,8 @@ delay = "1s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon = "tf-anchor2"
-title = "Tons of Feature"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+title = "Diligenciado"
+description = "Despachos, exhortos, edictos, oficios y mandamientos"
 delay = "1.2s"
 
 [[params.service.serviceItem]]
@@ -120,10 +120,9 @@ delay = "1.2s"
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
 # use delay for reveal items one by one
 icon = "tf-globe"
-title = "Fully SEO Optimized"
-description = "Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+title = "Subastas, Embargos y Alzamientos"
+description = "Con asistencia en cerrajería y otros servicios relacionados"
 delay = "1.5s"
-
 
 # Call to Action Section
 [params.cta]
@@ -134,5 +133,5 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu
 
 [params.contact]
 enable = true
-title = "Get In Touch"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
+title = "Contacto"
+subtitle = "Si quiere contactar para más información sobre su caso específico y presupuestos, por favor rellene el formuario a continuación y me pondré en contacto con usted lo antes posible"
