@@ -34,8 +34,8 @@ countdownDay = "31"
 # About Section
 [params.about]
 enable = true
-heading = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam ipsa recusandae consequatur veniam, reiciendis odit quia eaque vel eius a."
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ulla-mco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, aspernatur."
+heading = "Sobre mí"
+description = ""
 
 [[params.about.sliderItem]]
 image = "images/about/1.jpg"
@@ -50,8 +50,8 @@ image = "images/about/2.jpg"
 # Service Section
 [params.service]
 enable = true
-title = "Find Better Solutions Build Better Products"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et"
+title = "Partidos Judiciales"
+subtitle = "Ciudad Real, Alcázar de San Juan, Almagro, Almadén, Daimiel, Manzanares, Puertollano, Tomelloso, Valdepeñas, Villanueva de los Infantes y en Toledo capital."
 [[params.service.serviceItem]]
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
@@ -134,4 +134,5 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiu
 [params.contact]
 enable = true
 title = "Contacto"
-subtitle = "Si quiere contactar para más información sobre su caso específico y presupuestos, por favor rellene el formuario a continuación y me pondré en contacto con usted lo antes posible"
+subtitle = "Si quiere contactar para más información sobre su caso específico y presupuestos, por favor rellene el formuario a continuación y me pondré en contacto con usted lo antes posible."
+address = "Calle Madroños, 16 - 13002 - Ciudad Real"
