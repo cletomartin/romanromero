@@ -21,7 +21,10 @@ service = "Servicios"
 enable = true
 bg = "images/header-bg.jpg"
 title = "MARÍA DEL CARMEN ROMÁN MENOR"
-subtitle = "Procuradora | 630129578 | carmen@romanmenor.es"
+subtitle = "Procuradora"
+phone = "630129578"
+email = "carmen@romanmenor.es"
+linkedin = "romanmenor"
 btnText = "Saber más"
 
 # counter

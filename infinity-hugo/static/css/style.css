@@ -55,6 +55,7 @@ ul {
 }
 
 a {
+   color: #1bafb4;
   -webkit-transition: all 0.2s ease-in-out 0s;
   -moz-transition: all 0.2s ease-in-out 0s;
   -o-transition: all 0.2s ease-in-out 0s;
@@ -68,6 +69,12 @@ a:focus,
   outline: 0 none;
 }
 
+a:hover,
+a:visited,
+a:active,
+a:focus {
+    color: #d3f7f8
+}
 a,
 a:active,
 a:focus,

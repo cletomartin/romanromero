@@ -10,9 +10,12 @@
                             {{ . }}
                         </h1>
                         {{ end }}
-                        {{ with .Site.Params.hero.subtitle }}
+                        {{ with .Site.Params.hero }}
                         <p class="wow fadeInDown" data-wow-delay="0.5s" data-wow-duration=".5s">
-                            {{ . }}
+                          <em>{{ .subtitle }}</em></br>
+			  <b><a href="tel:{{ .phone }}">{{ .phone }}</a></b></br>
+			  <b><a href="mailto:{{.email}}">{{.email}}</a></b></br>
+			  <a href="https://www.linkedin.com/in/{{ .linkedin }}"><i class="tf-linkedin"></i></a>
                         </p>
                         {{ end }}
                         {{ with .Site.Params.hero.btnText }}
