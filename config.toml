@@ -13,16 +13,15 @@ customHead = ""
 [params.navigation]
 logo = ""
 home = "Inicio"
-about = "Sobre mí"
+about = "Partidos Judiciales"
 service = "Servicios"
-contact = "Contacto"
 
 # Hero Area
 [params.hero]
 enable = true
 bg = "images/header-bg.jpg"
 title = "MARÍA DEL CARMEN ROMÁN MENOR"
-subtitle = "Procuradora"
+subtitle = "Procuradora | 630129578 | carmen@romanmenor.es"
 btnText = "Saber más"
 
 # counter
@@ -34,8 +33,8 @@ countdownDay = "31"
 # About Section
 [params.about]
 enable = true
-heading = "Sobre mí"
-description = ""
+heading = "Partidos Judiciales"
+description = "Los ámbitos de actuación son Ciudad Real, Alcázar de San Juan, Almagro, Almadén, Daimiel, Manzanares, Puertollano, Tomelloso, Valdepeñas, Villanueva de los Infantes y en Toledo capital."
 
 [[params.about.sliderItem]]
 image = "images/about/1.jpg"
@@ -50,8 +49,8 @@ image = "images/about/2.jpg"
 # Service Section
 [params.service]
 enable = true
-title = "Partidos Judiciales"
-subtitle = "Ciudad Real, Alcázar de San Juan, Almagro, Almadén, Daimiel, Manzanares, Puertollano, Tomelloso, Valdepeñas, Villanueva de los Infantes y en Toledo capital."
+title = "Servicios"
+subtitle = ""
 [[params.service.serviceItem]]
 # give icon(themefisher icon font), title, description
 # more about themefisher icon font visit https://github.com/themefisher/themefisher-font
@@ -132,7 +131,6 @@ title = "Subscribe to our mailing list"
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
 
 [params.contact]
-enable = true
+enable = false
 title = "Contacto"
 subtitle = "Si quiere contactar para más información sobre su caso específico y presupuestos, por favor rellene el formuario a continuación y me pondré en contacto con usted lo antes posible."
-address = "Calle Madroños, 16 - 13002 - Ciudad Real"
