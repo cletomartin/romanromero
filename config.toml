@@ -37,16 +37,16 @@ countdownDay = "31"
 [params.about]
 enable = true
 heading = "Partidos Judiciales"
-description = "Los ámbitos de actuación son Ciudad Real, Alcázar de San Juan, Almagro, Almadén, Daimiel, Manzanares, Puertollano, Tomelloso, Valdepeñas, Villanueva de los Infantes y en Toledo capital."
+description = "Los ámbitos de actuación son Ciudad Real, Alcázar de San Juan, Almagro, Almadén, Daimiel, Manzanares, Puertollano, Tomelloso, Valdepeñas, Madrid (capital) y en Toledo (capital)."
 
+[[params.about.sliderItem]]
+image = "images/about/4.jpg"
 [[params.about.sliderItem]]
 image = "images/about/1.jpg"
 [[params.about.sliderItem]]
-image = "images/about/2.jpg"
-[[params.about.sliderItem]]
 image = "images/about/3.jpg"
 [[params.about.sliderItem]]
-image = "images/about/2.jpg"
+image = "images/about/1.jpg"
 
 
 # Service Section
